@@ -1,0 +1,14 @@
+# Password Generator - Requirements
+# 
+# This project uses only Python standard library
+# No external dependencies required!
+#
+# Required: Python 3.6 or higher
+#
+# Standard library modules used:
+# - random: For secure random password generation
+# - re: For pattern matching in password evaluation
+
+# If you plan to add future enhancements, you might consider:
+# cryptographically-secure-random==1.0.0  # For enhanced security (optional)
+# colorama==0.4.6  # For colored terminal output (optional)
